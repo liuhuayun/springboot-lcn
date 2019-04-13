@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meite-shop-basics-springcloud-eureka" />
+        <module name="meite-shop-basics-springcloud-zuul" />
+        <module name="meite-shop-common" />
+        <module name="meite-shop-service-api-member" />
+        <module name="meite-shop-service-api-order" />
+        <module name="meite-shop-service-api-stock" />
+        <module name="meite-shop-service-member" />
+        <module name="meite-shop-service-order" />
+        <module name="meite-shop-service-stock" />
+        <module name="transaction-dubbo" />
+        <module name="transaction-motan" />
+        <module name="transaction-springcloud" />
+        <module name="tx-client" />
+        <module name="tx-manager" />
+        <module name="tx-plugins-db" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="meite-shop-basics" target="1.8" />
+      <module name="meite-shop-basics-springcloud-eureka" target="1.8" />
+      <module name="meite-shop-basics-springcloud-zuul" target="1.8" />
+      <module name="meite-shop-common" target="1.8" />
+      <module name="meite-shop-parent" target="1.8" />
+      <module name="meite-shop-service" target="1.8" />
+      <module name="meite-shop-service-api" target="1.8" />
+      <module name="meite-shop-service-api-member" target="1.8" />
+      <module name="meite-shop-service-api-order" target="1.8" />
+      <module name="meite-shop-service-api-stock" target="1.8" />
+      <module name="meite-shop-service-member" target="1.8" />
+      <module name="meite-shop-service-order" target="1.8" />
+      <module name="meite-shop-service-stock" target="1.8" />
+      <module name="transaction-dubbo" target="1.8" />
+      <module name="transaction-motan" target="1.8" />
+      <module name="transaction-springcloud" target="1.8" />
+      <module name="tx-client" target="1.8" />
+      <module name="tx-lcn" target="1.8" />
+      <module name="tx-manager" target="1.8" />
+      <module name="tx-plugins-db" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

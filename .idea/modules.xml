@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics.iml" filepath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/meite-shop-basics-springcloud-eureka.iml" filepath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/meite-shop-basics-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/meite-shop-basics-springcloud-zuul.iml" filepath="$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/meite-shop-basics-springcloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common.iml" filepath="$PROJECT_DIR$/meite-shop-common/meite-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-parent.iml" filepath="$PROJECT_DIR$/meite-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service.iml" filepath="$PROJECT_DIR$/meite-shop-service/meite-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api.iml" filepath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/meite-shop-service-api-member.iml" filepath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/meite-shop-service-api-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-order/meite-shop-service-api-order.iml" filepath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-order/meite-shop-service-api-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-stock/meite-shop-service-api-stock.iml" filepath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-stock/meite-shop-service-api-stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service-member/meite-shop-service-member.iml" filepath="$PROJECT_DIR$/meite-shop-service/meite-shop-service-member/meite-shop-service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service-order/meite-shop-service-order.iml" filepath="$PROJECT_DIR$/meite-shop-service/meite-shop-service-order/meite-shop-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service-stock/meite-shop-service-stock.iml" filepath="$PROJECT_DIR$/meite-shop-service/meite-shop-service-stock/meite-shop-service-stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tx-lcn-2.0/transaction-dubbo/transaction-dubbo.iml" filepath="$PROJECT_DIR$/../tx-lcn-2.0/transaction-dubbo/transaction-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tx-lcn-2.0/transaction-motan/transaction-motan.iml" filepath="$PROJECT_DIR$/../tx-lcn-2.0/transaction-motan/transaction-motan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tx-lcn-2.0/transaction-springcloud/transaction-springcloud.iml" filepath="$PROJECT_DIR$/../tx-lcn-2.0/transaction-springcloud/transaction-springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tx-lcn-2.0/tx-client/tx-client.iml" filepath="$PROJECT_DIR$/../tx-lcn-2.0/tx-client/tx-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tx-lcn-2.0/tx-lcn.iml" filepath="$PROJECT_DIR$/../tx-lcn-2.0/tx-lcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tx-lcn-2.0/tx-manager/tx-manager.iml" filepath="$PROJECT_DIR$/../tx-lcn-2.0/tx-manager/tx-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tx-lcn-2.0/tx-plugins-db/tx-plugins-db.iml" filepath="$PROJECT_DIR$/../tx-lcn-2.0/tx-plugins-db/tx-plugins-db.iml" />
+    </modules>
+  </component>
+</project>
