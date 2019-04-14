@@ -2,6 +2,11 @@ package com.antmeite.api.entity;
 
 import lombok.Data;
 
+/**
+ *
+ *  库存实体类
+ */
+
 @Data
 public class StockEntity {
 

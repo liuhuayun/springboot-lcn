@@ -16,8 +16,12 @@ zuul:
     api-a:
      ### 以 /api-member/访问转发到会员服务
       path: /api-member/**
-      serviceId: antmeite-member
+      serviceId: app-member
     api-b:
         ### 以 /api-order/访问转发到订单服务
       path: /api-order/**
-      serviceId: antmeite-order
+      serviceId: app-order
+    api-c:
+        ### 以 /api-stock/访问转发到库存服务
+      path: /api-stock/**
+      serviceId: app-stock

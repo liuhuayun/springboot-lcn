@@ -4,6 +4,10 @@ import org.springframework.stereotype.Component;
 
 import com.antmeite.code.constants.ApiConstants;
 
+/**
+ * 通用方法的封装
+ *
+ */
 @Component
 public class BaseApiService {
 

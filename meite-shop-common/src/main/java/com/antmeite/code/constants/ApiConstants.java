@@ -1,5 +1,9 @@
 package com.antmeite.code.constants;
 
+/**
+ *  定义系统常量
+ *
+ */
 public interface ApiConstants {
 	// 响应请求成功
 	String HTTP_RES_CODE_200_VALUE = "success";

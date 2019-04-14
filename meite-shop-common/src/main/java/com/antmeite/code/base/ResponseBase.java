@@ -2,6 +2,11 @@ package com.antmeite.code.base;
 
 import lombok.Data;
 
+/**
+ *   响应消息的封装
+ *
+ */
+
 @Data
 public class ResponseBase {
 

@@ -5,6 +5,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.antmeite.code.base.ResponseBase;
 
+/**
+ * 库存服务接口
+ *
+ */
 public interface StockService {
 
 	// 根据商品id 减库存数量
