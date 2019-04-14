@@ -73,4 +73,5 @@ addOrderAndStock 方法就是下单及调用库存的方法，方法的参数 i=
 
 1. lcn官网：http://www.txlcn.org/zh-cn/  
 2. lcn github网址：https://github.com/codingapi/tx-lcn 
-3. 蚂蚁课堂 http://www.mayikt.com/
+3. 蚂蚁课堂  http://www.mayikt.com/
+4. 博客地址：https://www.cnblogs.com/ming-blogs/p/10705270.html
